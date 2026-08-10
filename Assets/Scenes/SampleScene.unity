@@ -1917,11 +1917,11 @@ MonoBehaviour:
   m_LookAt: {fileID: 0}
   m_Follow: {fileID: 0}
   m_Lens:
-    FieldOfView: 7.54
+    FieldOfView: 6.44
     OrthographicSize: 5
     NearClipPlane: 0.3
     FarClipPlane: 1000
-    Dutch: 0
+    Dutch: -23
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
@@ -2756,7 +2756,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 42.1
+  field of view: 6.44
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -2781,8 +2781,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.01771167, y: 0.7124813, z: 0.017877454, w: -0.70123965}
-  m_LocalPosition: {x: 93.81, y: 1.461, z: 100.779}
+  m_LocalRotation: {x: 0.19918247, y: -0.97965187, z: 0.023866685, w: 0.006252448}
+  m_LocalPosition: {x: 54.01, y: 1.85, z: 63.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4172,7 +4172,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3391732678592860177, guid: 108481a5f9ae29b4680cbfa0c7ab8529, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3391732678592860177, guid: 108481a5f9ae29b4680cbfa0c7ab8529, type: 3}
       propertyPath: m_LocalScale.x
