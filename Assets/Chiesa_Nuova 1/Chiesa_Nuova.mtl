@@ -1,0 +1,27 @@
+newmtl material_0
+Kd 1 1 1
+d 1
+Ke 0 0 0
+illum 2
+map_Kd images/ChiesaNuova1.jpg
+Ks 0 0 0
+Ns 800
+
+newmtl material_1
+Kd 1 1 1
+d 1
+Ke 0 0 0
+illum 2
+map_Kd images/ChiesaNuova11.jpg
+Ks 0 0 0
+Ns 800
+
+newmtl material_2
+Kd 1 1 1
+d 1
+Ke 0 0 0
+illum 2
+map_Kd images/ChiesaNuova12.jpg
+Ks 0 0 0
+Ns 800
+
